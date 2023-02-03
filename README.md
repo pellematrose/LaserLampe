@@ -1,7 +1,6 @@
 # LaserLampe
 This is a small luminaire for small cabins like yachts, boats, vans, ...
 
-To set up this luminaire get an assembled PCB on my tindie.com shop and order the other parts at your preferred laser-cutter service.
 ![LaserLampe](https://github.com/pellematrose/LaserLampe/blob/main/LaserLampe_short_on.jpg)
 
 ## For the short version of LaserLampe you need the following:
